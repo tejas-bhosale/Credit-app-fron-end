@@ -1,3 +1,16 @@
+#Login-Form
+![image](https://user-images.githubusercontent.com/59795655/213437505-614ad178-5bae-4fe3-90df-4bf0e68ff04d.png)
+#Dashboard
+![image](https://user-images.githubusercontent.com/59795655/213437626-974cf53a-56ba-48a1-87c5-e21a61099db6.png)
+#Make borrow Request
+![image](https://user-images.githubusercontent.com/59795655/213437727-c6c7f3e6-0f12-4076-809d-c55316505d85.png)
+#Pay Back Lenders
+![image](https://user-images.githubusercontent.com/59795655/213437831-9dcfda4b-ab18-4852-b184-f1d45de8e8a5.png)
+#Add Funds
+![image](https://user-images.githubusercontent.com/59795655/213437900-ed4bdde7-eee0-4d60-a827-77b6096687e2.png)
+#Create User
+![image](https://user-images.githubusercontent.com/59795655/213438044-1ca5822a-8053-4ec6-99ac-9cd1477b8fec.png)
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
